@@ -1,4 +1,6 @@
+
 # Laboratorio 2 Robotica
+
 ### Integrantes: 
 - Danilo Enrique Insuasty Delgado.
 - Abraham Másmela Ramirez
@@ -8,6 +10,8 @@
 
 <h2>Videos:</h2>
 
-1) Videos de funcionamiento del robot:
-  <p><a href="https://youtu.be/UBZBv8D7sB0" target='_blank'>Video 1</a></p>
-  <p><a href="https://youtu.be/Xxzc5nZoff8" target='blank'>Video 2</a></p>
+<h3>1) Videos de funcionamiento del robot:</h3>
+  <h4>a) Video 1 (hacer click en la imagen):</h4>
+  <a href="https://youtu.be/UBZBv8D7sB0" target='_blank'><img width=500px src="Videos/image_2023-04-15_195242575.png"/></a>
+  <h4>a) Video 2 (hacer click en la imagen):</h4>
+  <a href="https://youtu.be/Xxzc5nZoff8" target='blank'><img width=500px src="Videos/Miniatura1.png"/></a>
