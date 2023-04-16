@@ -1,1 +1,1 @@
-# RoboticaLab2_Abraham_Danilo_Nicolas_2023
+# Laboratorio 2 Robotica
