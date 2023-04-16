@@ -29,7 +29,10 @@ El código main realizado en rapid se muestra en la siguiente imagen.
 
 Si la entrada digital (El botón 1) se aprieta y la entrada digital 2 (El botón 2) esta apagado, el robot empieza a realizar el movimiento de escritura y se prende un led, cuando este algoritmo acaba y se aprieta el botón 2, el robot empieza a realizar el movimiento de mantenimiento y se apaga el led
 
+El video de la simulacion con las entradas y salidas digitales es el siguiente: (dar clic en la imagen)
 
+<a href="https://youtube.com/shorts/9Qv1UK5hy0I" target="_blank"><img src="https://github.com/NicolasPrietoS/RoboticaLab2_Abraham_Danilo_Nicolas_2023/blob/main/imagenes/imgagen%20video%20simu.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 
 <h2>Videos:</h2>
