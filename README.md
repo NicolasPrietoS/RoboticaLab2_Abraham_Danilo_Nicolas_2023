@@ -31,7 +31,7 @@ Si la entrada digital (El botón 1) se aprieta y la entrada digital 2 (El botón
 
 El video de la simulacion con las entradas y salidas digitales es el siguiente: (dar clic en la imagen)
 
-<a href="https://youtube.com/shorts/9Qv1UK5hy0I" target="_blank"><img src="https://github.com/NicolasPrietoS/RoboticaLab2_Abraham_Danilo_Nicolas_2023/blob/main/imagenes/imgagen%20video%20simu.png" 
+<a href="https://www.youtube.com/watch?v=5B5bgZt7Wfg&ab_channel=AbrahamFelipeMasmela"><img src="https://github.com/NicolasPrietoS/RoboticaLab2_Abraham_Danilo_Nicolas_2023/blob/main/imagenes/imgagen%20video%20simu.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
 
 
