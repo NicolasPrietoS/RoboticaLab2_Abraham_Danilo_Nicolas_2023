@@ -42,3 +42,6 @@ alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
   <a href="https://youtu.be/UBZBv8D7sB0" target='_blank'><img width=500px src="Videos/image_2023-04-15_195242575.png"/></a>
   <h4>a) Video 2 (hacer click en la imagen):</h4>
   <a href="https://youtu.be/Xxzc5nZoff8" target='blank'><img width=500px src="Videos/Miniatura1.png"/></a>
+  
+  ## Conclusiones.
+  A pesar de que la rutina no lograra escribir lo especificado en el primer taller, se logró los objetivos de este laboratorio que es realizar las entradas y salidas digitales teniendo un correcto funcionamiento al presionar los botones. Las dificultades para escribir fue producto de que la articulación número 4 se encontraba invertida puesto que el anterior equipo no la dejó en la posición de home del brazo, esto se debe tener en ceunta para próximas prácticas.
