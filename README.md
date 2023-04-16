@@ -1,5 +1,5 @@
 
-# Laboratorio 2 Robotica
+# Laboratorio 2 Robótica
 
 ### Integrantes: 
 - Danilo Enrique Insuasty Delgado.
